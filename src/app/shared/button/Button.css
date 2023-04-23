@@ -1,0 +1,23 @@
+.btn {
+    all: unset;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.btn-success {
+    background-color: rgb(12, 93, 12);
+    border: 1px solid rgb(12, 93, 12);
+}
+
+.btn-info {
+    background-color: rgb(13, 13, 117);
+    border: 1px solid rgb(13, 13, 117);
+}
+
+.btn-danger {
+    background-color: rgba(234, 4, 4, 0.91);
+    border: 1px solid rgba(234, 4, 4, 0.91);
+}
